@@ -2,26 +2,26 @@
 //import { Paths } from "expo-file-system";
 
 const FIXED_DATA = {
-  onboardingMeta: [
-    {
-      heading: "Crafted for Organized Viewing",
-      description:
-        "Our sweaters are thoughtfully designed with premium fabrics to keep you warm, cozy, and fashionable.",
-      thumbnail: require("../../assets/images/onboarding/onboard-1.jpg"),
-    },
-    {
-      heading: "Sustainable, Soft, and Timeless",
-      description:
-        "Our sweaters are thoughtfully designed with premium fabrics to keep you warm, cozy, and fashionable.",
-      thumbnail: require("../../assets/images/onboarding/onboard-2.jpg"),
-    },
-    {
-      heading: "Sustainable, Soft, and Timeless",
-      description:
-        "Our sweaters are thoughtfully designed with premium fabrics to keep you warm, cozy, and fashionable.",
-      thumbnail: require("../../assets/images/onboarding/onboard-3.jpg"),
-    },
-  ],
+  // onboardingMeta: [
+  //   {
+  //     heading: "Crafted for Organized Viewing",
+  //     description:
+  //       "Our sweaters are thoughtfully designed with premium fabrics to keep you warm, cozy, and fashionable.",
+  //     thumbnail: require("../../assets/images/onboarding/onboard-1.jpg"),
+  //   },
+  //   {
+  //     heading: "Sustainable, Soft, and Timeless",
+  //     description:
+  //       "Our sweaters are thoughtfully designed with premium fabrics to keep you warm, cozy, and fashionable.",
+  //     thumbnail: require("../../assets/images/onboarding/onboard-2.jpg"),
+  //   },
+  //   {
+  //     heading: "Sustainable, Soft, and Timeless",
+  //     description:
+  //       "Our sweaters are thoughtfully designed with premium fabrics to keep you warm, cozy, and fashionable.",
+  //     thumbnail: require("../../assets/images/onboarding/onboard-3.jpg"),
+  //   },
+  // ],
   dbConfig: {
     dbName: "docinbox_db",
     dbTables: {
